@@ -6,15 +6,11 @@
 
 ## Description
 
+_This is a website that will provide a programming language for the user based on a few survey questions they answer._
 
 ## Setup/Installation Requirements
 
-Clone my github repository from your computer's Terminal (make sure you are on your Desktop)
-
-* _Install Git Bash_
-* _git init from desktop_
-* _git clone this repo from desktop https://github.com/assassin56/ruby-friday_project2_
-* _open index.html in browser, or drag/drop index.html in browser._
+* _Follow this link to my gh-pages branch https://assassin56.github.io/ruby-friday_project2/_
 
 ## Known Bugs
 
