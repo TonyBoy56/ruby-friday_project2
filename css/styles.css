@@ -17,7 +17,7 @@ body {
 
 #output {
   display: none;
-  margin: 12px;
+  margin: 4px;
   border: 2px solid green;
   padding: 4px;
   background-color: orange;
